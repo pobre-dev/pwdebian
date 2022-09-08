@@ -3,7 +3,8 @@
 int main ()
 
 {
-	puts ("Hello wolrd!");
+	puts ("Oi, mundo!");
+	puts ("Concluindo configuração do VIM.");
 
 	return 0;
 
